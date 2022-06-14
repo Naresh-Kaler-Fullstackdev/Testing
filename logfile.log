@@ -1,0 +1,25 @@
+2022-06-14 19:25:12,713 INFO  [Log] Application Opened 
+2022-06-14 19:25:13,903 INFO  [Log] Login Successful 
+2022-06-14 19:25:14,015 INFO  [Log] Logout Successful 
+2022-06-14 19:25:14,256 INFO  [Log] Application Closed 
+2022-06-14 19:25:16,302 INFO  [Log] Application Opened 
+2022-06-14 19:25:17,433 INFO  [Log] Login Successful 
+2022-06-14 19:25:17,544 INFO  [Log] Entered into frame 
+2022-06-14 19:25:19,663 INFO  [Log] New Employee Added 
+2022-06-14 19:25:19,670 INFO  [Log] Exited from frame 
+2022-06-14 19:25:19,749 INFO  [Log] Logout Successful 
+2022-06-14 19:25:19,894 INFO  [Log] Application Closed 
+2022-06-14 19:25:21,942 INFO  [Log] Application Opened 
+2022-06-14 19:25:23,058 INFO  [Log] Login Successful 
+2022-06-14 19:25:23,128 INFO  [Log] Entered into frame 
+2022-06-14 19:25:26,348 INFO  [Log] Edited employee details 
+2022-06-14 19:25:26,355 INFO  [Log] Exited from frame 
+2022-06-14 19:25:26,460 INFO  [Log] Logout Successful 
+2022-06-14 19:25:26,645 INFO  [Log] Application Closed 
+2022-06-14 19:25:28,920 INFO  [Log] Application Opened 
+2022-06-14 19:25:30,055 INFO  [Log] Login Successful 
+2022-06-14 19:25:30,115 INFO  [Log] Entered into frame 
+2022-06-14 19:25:31,343 INFO  [Log] Employee deleted 
+2022-06-14 19:25:31,348 INFO  [Log] Exited from frame 
+2022-06-14 19:25:31,425 INFO  [Log] Logout Successful 
+2022-06-14 19:25:31,588 INFO  [Log] Application Closed 
